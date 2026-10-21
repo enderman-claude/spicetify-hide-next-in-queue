@@ -1,6 +1,13 @@
-{
-  "name": "Hide Next In Queue",
-  "description": "Hides the 'Next in queue' section in the Now Playing panel.",
-  "main": "hide-next-in-queue.js",
-  "readme": "README.md"
-}
+[
+  {
+    "name": "Hide Next In Queue",
+    "description": "Hides the 'Next in queue' section in the Now Playing panel.",
+    "preview": "preview.png",
+    "main": "hide-next-in-queue.js",
+    "readme": "README.md",
+    "authors": [
+      { "name": "enderman-claude", "url": "https://github.com/enderman-claude" }
+    ],
+    "tags": ["ui", "queue"]
+  }
+]
