@@ -1,0 +1,6 @@
+{
+  "name": "Hide Next In Queue",
+  "description": "Hides the 'Next in queue' section in the Now Playing panel.",
+  "main": "hide-next-in-queue.js",
+  "readme": "README.md"
+}
