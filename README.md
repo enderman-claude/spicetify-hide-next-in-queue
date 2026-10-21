@@ -4,6 +4,14 @@ A Spicetify extension that hides the "Next in queue" section (and its "Open queu
 
 ## Install
 
+### Option A: Spicetify Marketplace (recommended)
+
+1. Open Spicetify Marketplace from the Spotify sidebar. If it isn't there, install it first from the Spicetify Marketplace instructions.
+2. Search for "Hide Next In Queue".
+3. Click Install, then restart Spotify.
+
+### Option B: Manual install
+
 1. Copy `hide-next-in-queue.js` into your Spicetify Extensions folder:
    - Windows: `%appdata%\spicetify\Extensions\`
    - Linux / macOS: `~/.config/spicetify/Extensions/`
